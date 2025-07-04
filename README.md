@@ -57,13 +57,6 @@ Using state-of-the-art feature extraction (Mel Spectrograms), dimensionality red
    Outputs and plots will be displayed after each step.
 4. **Review markdown reflections** for key insights at every stage.
 
-## Rubric Alignment
-
-* Uses Mel Spectrograms (Librosa) for feature extraction.
-* Code is modular, commented, and DRY.
-* All required metrics are used and visualized.
-* Markdowns are original, concise, and interpret the actual experiment—not generic summaries.
-
 ## Author
 
 * \[Ngum Dieudonne]
