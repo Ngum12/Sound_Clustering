@@ -1,4 +1,4 @@
-# Sound Dataset Clustering Assignment
+# Sound Dataset Clustering Assignment.
 
 ## Overview
 
